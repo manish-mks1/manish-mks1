@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-mks1&label=Profile%20views&color=0e75b6&style=flat" alt="manish-mks1" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS, NodeJs**
+- 🌱 I’m currently learning **App Development using Android Studio**
 
 - 👨‍💻 All of my projects are available at [https://manish-mks1.github.io/Manish-Portfolio/](https://manish-mks1.github.io/Manish-Portfolio/)
 
