@@ -1,11 +1,11 @@
 [![MasterHead](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=)]()
 <h1 align="center">Hi 👋, I'm Manish kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-mks1&label=Profile%20views&color=0e75b6&style=flat" alt="manish-mks1" /> </p>
 
 
-- 🌱 I’m currently learning **App Development using Android Studio**
+- 🌱 I’m currently work on **App Development using Android Studio**
 
 - 👨‍💻 All of my projects are available at [https://manish-mks1.github.io/Manish-Portfolio/](https://manish-mks1.github.io/Manish-Portfolio/)
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **manishkumar748099@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QqZNMHJxqjVYZ0eh7lOyVCFLtjIshduY/view?usp=sharing](https://drive.google.com/file/d/1ToPua5Q0EHeV51doHIjkw38oni0aRRGX/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QqZNMHJxqjVYZ0eh7lOyVCFLtjIshduY/view?usp=sharing](https://drive.google.com/file/d/1JZ3Xf5mAnPNkDXrDykyQSuBPfa5hLDIT/view?usp=drivesdk)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am Creative and Hardworking person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
