@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-mks1&label=Profile%20views&color=0e75b6&style=flat" alt="manish-mks1" /> </p>
 
 
-- 🌱 I’m currently work on **WebApp Development and Android App development**
+- 🌱 I’m currently working as **Android developer** at **Lufic Technology pvt ltd**
 
 - 👨‍💻 All of my projects are available at [https://manish-mks1.github.io/Manish-Portfolio/](https://manish-mks1.github.io/Manish-Portfolio/)
 
-- 💬 Ask me about **Python, JAVA, OOPS, DSA**
+- 💬 Ask me about **JAVA, OOPS, DSA**
 
 - 📫 How to reach me **manishkumar748099@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1UBKg89rQbKm-Xv022U1L5W5UnU8tgIgO/view?usp=sharing)
+- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1UBKg89rQbKm-Xv022U1L5W5UnU8tgIgO/view?usp=sharing](https://drive.google.com/file/d/1J2RUuNGA4sweV_lMxCzMAhy-TGnt_BKu/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Creative and Hardworking person**
 
